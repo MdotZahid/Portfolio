@@ -1,0 +1,22 @@
+p{
+    color: rgb(61, 65, 67);
+}
+h1{
+    color: rgb(48, 25, 181);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-decoration-line: underline;
+    color: rgb(54, 10, 130);
+    
+}
+button{
+    background-color: cadetblue;
+    border-top-left-radius: 0.5cqb;
+    border-bottom-right-radius: 0.5cap;
+}
+ul{
+    border-color: black;
+}
